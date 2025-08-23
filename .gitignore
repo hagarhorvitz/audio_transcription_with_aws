@@ -1,0 +1,5 @@
+.env
+hagar-horvitz-1_credentials.csv
+lambda_function_v1.py
+
+.vscode/
