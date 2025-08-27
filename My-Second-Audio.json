@@ -1,0 +1,1699 @@
+{
+    "jobName": "My-Second-Audio",
+    "accountId": "797639046068",
+    "status": "COMPLETED",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "אז באה, קודם כל שימי לב שאת באה עם בגדים שאין בהם ברזלים וכאלה, לא חזייה עם ברזלים, ולא טופים ברזלים או ג'ינס, כאילו דברים בלי ברזלים בכלל, כמובן בלי תכשיטים. אני צריכה להגיד לך הפנייה בתופס שבע עשרה אל תכנסת, תביא גם גרביים כיכר שם לרוב. גם תביא בגדים ארוכים, מכניסים אותך, לרוב זה משהו כמו חצי שעה בערך, לפעמים יותר, לפעמים פחות, וזהו, ובעיקרון אסור לך לזוז, אסור לזוז בכלל בכלל בכלל בכלל, רק לנשום, אסור לזוז, זהו, את הולכת הביתה עכשיו יכול מאוד להיות שיזריקו לך חומר ניגוד ויכול להיות שלא, אז אני בכל מקרה הייתי טי בצום שעתיים לפני, לא יכולות כולה שעתיים לפני וזהו."
+            }
+        ],
+        "items": [
+            {
+                "id": 0,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.305",
+                        "content": "אז"
+                    }
+                ],
+                "start_time": "0.17",
+                "end_time": "0.18"
+            },
+            {
+                "id": 1,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.363",
+                        "content": "באה"
+                    }
+                ],
+                "start_time": "0.18",
+                "end_time": "0.2"
+            },
+            {
+                "id": 2,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.749",
+                        "content": "קודם"
+                    }
+                ],
+                "start_time": "2.92",
+                "end_time": "2.96"
+            },
+            {
+                "id": 4,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.85",
+                        "content": "כל"
+                    }
+                ],
+                "start_time": "2.96",
+                "end_time": "3.079"
+            },
+            {
+                "id": 5,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.713",
+                        "content": "שימי"
+                    }
+                ],
+                "start_time": "3.079",
+                "end_time": "3.319"
+            },
+            {
+                "id": 6,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.864",
+                        "content": "לב"
+                    }
+                ],
+                "start_time": "3.319",
+                "end_time": "3.44"
+            },
+            {
+                "id": 7,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.612",
+                        "content": "שאת"
+                    }
+                ],
+                "start_time": "3.44",
+                "end_time": "3.599"
+            },
+            {
+                "id": 8,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.555",
+                        "content": "באה"
+                    }
+                ],
+                "start_time": "3.599",
+                "end_time": "3.72"
+            },
+            {
+                "id": 9,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.84",
+                        "content": "עם"
+                    }
+                ],
+                "start_time": "3.72",
+                "end_time": "3.839"
+            },
+            {
+                "id": 10,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.558",
+                        "content": "בגדים"
+                    }
+                ],
+                "start_time": "3.839",
+                "end_time": "4.289"
+            },
+            {
+                "id": 11,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.954",
+                        "content": "שאין"
+                    }
+                ],
+                "start_time": "5.48",
+                "end_time": "5.679"
+            },
+            {
+                "id": 12,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.928",
+                        "content": "בהם"
+                    }
+                ],
+                "start_time": "5.679",
+                "end_time": "5.84"
+            },
+            {
+                "id": 13,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.976",
+                        "content": "ברזלים"
+                    }
+                ],
+                "start_time": "5.84",
+                "end_time": "6.28"
+            },
+            {
+                "id": 14,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.651",
+                        "content": "וכאלה"
+                    }
+                ],
+                "start_time": "6.28",
+                "end_time": "6.639"
+            },
+            {
+                "id": 15,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.989",
+                        "content": "לא"
+                    }
+                ],
+                "start_time": "6.84",
+                "end_time": "7.0"
+            },
+            {
+                "id": 17,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.878",
+                        "content": "חזייה"
+                    }
+                ],
+                "start_time": "7.0",
+                "end_time": "7.44"
+            },
+            {
+                "id": 18,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.979",
+                        "content": "עם"
+                    }
+                ],
+                "start_time": "7.44",
+                "end_time": "7.519"
+            },
+            {
+                "id": 19,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.976",
+                        "content": "ברזלים"
+                    }
+                ],
+                "start_time": "7.519",
+                "end_time": "8.069"
+            },
+            {
+                "id": 20,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 21,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.606",
+                        "content": "ולא"
+                    }
+                ],
+                "start_time": "8.239",
+                "end_time": "8.359"
+            },
+            {
+                "id": 22,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.329",
+                        "content": "טופים"
+                    }
+                ],
+                "start_time": "8.359",
+                "end_time": "9.069"
+            },
+            {
+                "id": 23,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.938",
+                        "content": "ברזלים"
+                    }
+                ],
+                "start_time": "9.76",
+                "end_time": "10.319"
+            },
+            {
+                "id": 24,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.981",
+                        "content": "או"
+                    }
+                ],
+                "start_time": "10.319",
+                "end_time": "10.52"
+            },
+            {
+                "id": 25,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.952",
+                        "content": "ג'ינס"
+                    }
+                ],
+                "start_time": "10.52",
+                "end_time": "10.93"
+            },
+            {
+                "id": 26,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.845",
+                        "content": "כאילו"
+                    }
+                ],
+                "start_time": "11.039",
+                "end_time": "11.279"
+            },
+            {
+                "id": 28,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.96",
+                        "content": "דברים"
+                    }
+                ],
+                "start_time": "11.279",
+                "end_time": "11.77"
+            },
+            {
+                "id": 29,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.97",
+                        "content": "בלי"
+                    }
+                ],
+                "start_time": "11.77",
+                "end_time": "12.069"
+            },
+            {
+                "id": 30,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.976",
+                        "content": "ברזלים"
+                    }
+                ],
+                "start_time": "12.069",
+                "end_time": "12.479"
+            },
+            {
+                "id": 31,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.99",
+                        "content": "בכלל"
+                    }
+                ],
+                "start_time": "12.479",
+                "end_time": "12.84"
+            },
+            {
+                "id": 32,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.949",
+                        "content": "כמובן"
+                    }
+                ],
+                "start_time": "12.96",
+                "end_time": "13.319"
+            },
+            {
+                "id": 34,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.886",
+                        "content": "בלי"
+                    }
+                ],
+                "start_time": "13.319",
+                "end_time": "13.439"
+            },
+            {
+                "id": 35,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.678",
+                        "content": "תכשיטים"
+                    }
+                ],
+                "start_time": "13.439",
+                "end_time": "14.35"
+            },
+            {
+                "id": 36,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.719",
+                        "content": "אני"
+                    }
+                ],
+                "start_time": "15.609",
+                "end_time": "16.329"
+            },
+            {
+                "id": 38,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.42",
+                        "content": "צריכה"
+                    }
+                ],
+                "start_time": "16.329",
+                "end_time": "16.459"
+            },
+            {
+                "id": 39,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.822",
+                        "content": "להגיד"
+                    }
+                ],
+                "start_time": "16.459",
+                "end_time": "16.649"
+            },
+            {
+                "id": 40,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.162",
+                        "content": "לך"
+                    }
+                ],
+                "start_time": "16.649",
+                "end_time": "16.77"
+            },
+            {
+                "id": 41,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.353",
+                        "content": "הפנייה"
+                    }
+                ],
+                "start_time": "16.77",
+                "end_time": "17.69"
+            },
+            {
+                "id": 42,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.554",
+                        "content": "בתופס"
+                    }
+                ],
+                "start_time": "17.69",
+                "end_time": "18.17"
+            },
+            {
+                "id": 43,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.966",
+                        "content": "שבע"
+                    }
+                ],
+                "start_time": "18.17",
+                "end_time": "18.489"
+            },
+            {
+                "id": 44,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.989",
+                        "content": "עשרה"
+                    }
+                ],
+                "start_time": "18.489",
+                "end_time": "18.899"
+            },
+            {
+                "id": 45,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.724",
+                        "content": "אל"
+                    }
+                ],
+                "start_time": "20.389",
+                "end_time": "20.399"
+            },
+            {
+                "id": 46,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.652",
+                        "content": "תכנסת"
+                    }
+                ],
+                "start_time": "20.409",
+                "end_time": "20.95"
+            },
+            {
+                "id": 47,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 48,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.391",
+                        "content": "תביא"
+                    }
+                ],
+                "start_time": "22.61",
+                "end_time": "22.879"
+            },
+            {
+                "id": 49,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.535",
+                        "content": "גם"
+                    }
+                ],
+                "start_time": "22.879",
+                "end_time": "22.93"
+            },
+            {
+                "id": 50,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.39",
+                        "content": "גרביים"
+                    }
+                ],
+                "start_time": "22.93",
+                "end_time": "23.329"
+            },
+            {
+                "id": 51,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.862",
+                        "content": "כיכר"
+                    }
+                ],
+                "start_time": "23.329",
+                "end_time": "23.7"
+            },
+            {
+                "id": 52,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.978",
+                        "content": "שם"
+                    }
+                ],
+                "start_time": "23.7",
+                "end_time": "23.87"
+            },
+            {
+                "id": 53,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.816",
+                        "content": "לרוב"
+                    }
+                ],
+                "start_time": "23.87",
+                "end_time": "24.399"
+            },
+            {
+                "id": 54,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ]
+            },
+            {
+                "id": 55,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.938",
+                        "content": "גם"
+                    }
+                ],
+                "start_time": "27.28",
+                "end_time": "27.329"
+            },
+            {
+                "id": 56,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.569",
+                        "content": "תביא"
+                    }
+                ],
+                "start_time": "27.329",
+                "end_time": "27.36"
+            },
+            {
+                "id": 57,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.881",
+                        "content": "בגדים"
+                    }
+                ],
+                "start_time": "27.36",
+                "end_time": "27.379"
+            },
+            {
+                "id": 58,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.941",
+                        "content": "ארוכים"
+                    }
+                ],
+                "start_time": "27.379",
+                "end_time": "27.409"
+            },
+            {
+                "id": 59,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 60,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.953",
+                        "content": "מכניסים"
+                    }
+                ],
+                "start_time": "32.02",
+                "end_time": "32.5"
+            },
+            {
+                "id": 61,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.99",
+                        "content": "אותך"
+                    }
+                ],
+                "start_time": "32.5",
+                "end_time": "32.86"
+            },
+            {
+                "id": 62,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 63,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.969",
+                        "content": "לרוב"
+                    }
+                ],
+                "start_time": "34.06",
+                "end_time": "34.419"
+            },
+            {
+                "id": 64,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.979",
+                        "content": "זה"
+                    }
+                ],
+                "start_time": "34.419",
+                "end_time": "34.5"
+            },
+            {
+                "id": 65,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.994",
+                        "content": "משהו"
+                    }
+                ],
+                "start_time": "34.5",
+                "end_time": "34.709"
+            },
+            {
+                "id": 66,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.991",
+                        "content": "כמו"
+                    }
+                ],
+                "start_time": "34.709",
+                "end_time": "34.86"
+            },
+            {
+                "id": 67,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.989",
+                        "content": "חצי"
+                    }
+                ],
+                "start_time": "34.86",
+                "end_time": "35.139"
+            },
+            {
+                "id": 68,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.984",
+                        "content": "שעה"
+                    }
+                ],
+                "start_time": "35.139",
+                "end_time": "35.54"
+            },
+            {
+                "id": 69,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.951",
+                        "content": "בערך"
+                    }
+                ],
+                "start_time": "35.54",
+                "end_time": "36.009"
+            },
+            {
+                "id": 70,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 71,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.539",
+                        "content": "לפעמים"
+                    }
+                ],
+                "start_time": "36.86",
+                "end_time": "37.259"
+            },
+            {
+                "id": 72,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.915",
+                        "content": "יותר"
+                    }
+                ],
+                "start_time": "37.259",
+                "end_time": "37.369"
+            },
+            {
+                "id": 73,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 74,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.855",
+                        "content": "לפעמים"
+                    }
+                ],
+                "start_time": "37.38",
+                "end_time": "37.619"
+            },
+            {
+                "id": 75,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.976",
+                        "content": "פחות"
+                    }
+                ],
+                "start_time": "37.619",
+                "end_time": "37.909"
+            },
+            {
+                "id": 76,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 77,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.909",
+                        "content": "וזהו"
+                    }
+                ],
+                "start_time": "39.18",
+                "end_time": "39.45"
+            },
+            {
+                "id": 78,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 79,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.186",
+                        "content": "ובעיקרון"
+                    }
+                ],
+                "start_time": "39.459",
+                "end_time": "39.779"
+            },
+            {
+                "id": 80,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.679",
+                        "content": "אסור"
+                    }
+                ],
+                "start_time": "39.779",
+                "end_time": "40.06"
+            },
+            {
+                "id": 81,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.702",
+                        "content": "לך"
+                    }
+                ],
+                "start_time": "40.06",
+                "end_time": "40.119"
+            },
+            {
+                "id": 82,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.93",
+                        "content": "לזוז"
+                    }
+                ],
+                "start_time": "40.119",
+                "end_time": "40.479"
+            },
+            {
+                "id": 83,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 84,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.886",
+                        "content": "אסור"
+                    }
+                ],
+                "start_time": "40.58",
+                "end_time": "40.819"
+            },
+            {
+                "id": 85,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.839",
+                        "content": "לזוז"
+                    }
+                ],
+                "start_time": "40.819",
+                "end_time": "41.049"
+            },
+            {
+                "id": 86,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.79",
+                        "content": "בכלל"
+                    }
+                ],
+                "start_time": "41.049",
+                "end_time": "41.259"
+            },
+            {
+                "id": 87,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.758",
+                        "content": "בכלל"
+                    }
+                ],
+                "start_time": "41.259",
+                "end_time": "41.56"
+            },
+            {
+                "id": 88,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.693",
+                        "content": "בכלל"
+                    }
+                ],
+                "start_time": "41.56",
+                "end_time": "41.759"
+            },
+            {
+                "id": 89,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.332",
+                        "content": "בכלל"
+                    }
+                ],
+                "start_time": "41.759",
+                "end_time": "41.959"
+            },
+            {
+                "id": 90,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 91,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.984",
+                        "content": "רק"
+                    }
+                ],
+                "start_time": "42.06",
+                "end_time": "42.22"
+            },
+            {
+                "id": 92,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.704",
+                        "content": "לנשום"
+                    }
+                ],
+                "start_time": "42.22",
+                "end_time": "42.619"
+            },
+            {
+                "id": 93,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 94,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.945",
+                        "content": "אסור"
+                    }
+                ],
+                "start_time": "43.139",
+                "end_time": "43.38"
+            },
+            {
+                "id": 95,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.955",
+                        "content": "לזוז"
+                    }
+                ],
+                "start_time": "43.38",
+                "end_time": "43.77"
+            },
+            {
+                "id": 96,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 97,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.494",
+                        "content": "זהו"
+                    }
+                ],
+                "start_time": "44.869",
+                "end_time": "44.909"
+            },
+            {
+                "id": 98,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 99,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.669",
+                        "content": "את"
+                    }
+                ],
+                "start_time": "45.93",
+                "end_time": "45.939"
+            },
+            {
+                "id": 100,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.923",
+                        "content": "הולכת"
+                    }
+                ],
+                "start_time": "45.939",
+                "end_time": "46.209"
+            },
+            {
+                "id": 101,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.899",
+                        "content": "הביתה"
+                    }
+                ],
+                "start_time": "46.209",
+                "end_time": "46.5"
+            },
+            {
+                "id": 102,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.978",
+                        "content": "עכשיו"
+                    }
+                ],
+                "start_time": "46.5",
+                "end_time": "46.619"
+            },
+            {
+                "id": 103,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.847",
+                        "content": "יכול"
+                    }
+                ],
+                "start_time": "46.619",
+                "end_time": "46.86"
+            },
+            {
+                "id": 104,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.604",
+                        "content": "מאוד"
+                    }
+                ],
+                "start_time": "46.86",
+                "end_time": "46.939"
+            },
+            {
+                "id": 105,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.861",
+                        "content": "להיות"
+                    }
+                ],
+                "start_time": "46.939",
+                "end_time": "47.099"
+            },
+            {
+                "id": 106,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.215",
+                        "content": "שיזריקו"
+                    }
+                ],
+                "start_time": "47.099",
+                "end_time": "47.529"
+            },
+            {
+                "id": 107,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.44",
+                        "content": "לך"
+                    }
+                ],
+                "start_time": "47.529",
+                "end_time": "47.54"
+            },
+            {
+                "id": 108,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.575",
+                        "content": "חומר"
+                    }
+                ],
+                "start_time": "47.54",
+                "end_time": "47.799"
+            },
+            {
+                "id": 109,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.816",
+                        "content": "ניגוד"
+                    }
+                ],
+                "start_time": "47.799",
+                "end_time": "48.069"
+            },
+            {
+                "id": 110,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.614",
+                        "content": "ויכול"
+                    }
+                ],
+                "start_time": "48.069",
+                "end_time": "48.299"
+            },
+            {
+                "id": 111,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.957",
+                        "content": "להיות"
+                    }
+                ],
+                "start_time": "48.299",
+                "end_time": "48.419"
+            },
+            {
+                "id": 112,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.861",
+                        "content": "שלא"
+                    }
+                ],
+                "start_time": "48.419",
+                "end_time": "48.709"
+            },
+            {
+                "id": 113,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 114,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.992",
+                        "content": "אז"
+                    }
+                ],
+                "start_time": "50.259",
+                "end_time": "50.619"
+            },
+            {
+                "id": 115,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.994",
+                        "content": "אני"
+                    }
+                ],
+                "start_time": "50.619",
+                "end_time": "50.79"
+            },
+            {
+                "id": 116,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.994",
+                        "content": "בכל"
+                    }
+                ],
+                "start_time": "50.79",
+                "end_time": "51.02"
+            },
+            {
+                "id": 117,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.977",
+                        "content": "מקרה"
+                    }
+                ],
+                "start_time": "51.02",
+                "end_time": "51.299"
+            },
+            {
+                "id": 118,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.967",
+                        "content": "הייתי"
+                    }
+                ],
+                "start_time": "51.299",
+                "end_time": "51.56"
+            },
+            {
+                "id": 119,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.263",
+                        "content": "טי"
+                    }
+                ],
+                "start_time": "51.56",
+                "end_time": "51.9"
+            },
+            {
+                "id": 120,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.887",
+                        "content": "בצום"
+                    }
+                ],
+                "start_time": "51.9",
+                "end_time": "52.22"
+            },
+            {
+                "id": 121,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.988",
+                        "content": "שעתיים"
+                    }
+                ],
+                "start_time": "52.22",
+                "end_time": "52.79"
+            },
+            {
+                "id": 122,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "לפני"
+                    }
+                ],
+                "start_time": "52.79",
+                "end_time": "52.939"
+            },
+            {
+                "id": 123,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ]
+            },
+            {
+                "id": 124,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.943",
+                        "content": "לא"
+                    }
+                ],
+                "start_time": "53.08",
+                "end_time": "53.259"
+            },
+            {
+                "id": 125,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.081",
+                        "content": "יכולות"
+                    }
+                ],
+                "start_time": "53.259",
+                "end_time": "53.74"
+            },
+            {
+                "id": 126,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.471",
+                        "content": "כולה"
+                    }
+                ],
+                "start_time": "53.74",
+                "end_time": "53.979"
+            },
+            {
+                "id": 127,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.697",
+                        "content": "שעתיים"
+                    }
+                ],
+                "start_time": "53.979",
+                "end_time": "54.419"
+            },
+            {
+                "id": 128,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.985",
+                        "content": "לפני"
+                    }
+                ],
+                "start_time": "54.419",
+                "end_time": "54.58"
+            },
+            {
+                "id": 129,
+                "type": "pronunciation",
+                "alternatives": [
+                    {
+                        "confidence": "0.868",
+                        "content": "וזהו"
+                    }
+                ],
+                "start_time": "54.58",
+                "end_time": "54.95"
+            },
+            {
+                "id": 130,
+                "type": "punctuation",
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ]
+            }
+        ],
+        "audio_segments": [
+            {
+                "id": 0,
+                "transcript": "אז באה, קודם כל שימי לב שאת באה עם בגדים שאין בהם ברזלים וכאלה, לא חזייה עם ברזלים, ולא טופים ברזלים או ג'ינס, כאילו דברים בלי ברזלים בכלל, כמובן בלי תכשיטים.",
+                "start_time": "0.159",
+                "end_time": "14.52",
+                "items": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36
+                ]
+            },
+            {
+                "id": 1,
+                "transcript": "אני צריכה להגיד לך הפנייה בתופס שבע עשרה אל תכנסת, תביא גם גרביים כיכר שם לרוב.",
+                "start_time": "15.409",
+                "end_time": "26.86",
+                "items": [
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54
+                ]
+            },
+            {
+                "id": 2,
+                "transcript": "גם תביא בגדים ארוכים, מכניסים אותך, לרוב זה משהו כמו חצי שעה בערך, לפעמים יותר, לפעמים פחות, וזהו, ובעיקרון אסור לך לזוז, אסור לזוז בכלל בכלל בכלל בכלל, רק לנשום, אסור לזוז, זהו, את הולכת הביתה עכשיו יכול מאוד להיות שיזריקו לך חומר ניגוד ויכול להיות שלא, אז אני בכל מקרה הייתי טי בצום שעתיים לפני, לא יכולות כולה שעתיים לפני וזהו.",
+                "start_time": "27.26",
+                "end_time": "56.369",
+                "items": [
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130
+                ]
+            }
+        ]
+    }
+}
